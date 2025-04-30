@@ -1,4 +1,4 @@
 export const seedUser = {
-  email: 'Isabelachavarro111@gmail.com',
-  password: '123456789'
-};
+    email: 'Isabelachavarro111@gmail.com',
+    password: 'maira0415.'
+  };
